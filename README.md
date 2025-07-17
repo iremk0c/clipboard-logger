@@ -9,7 +9,7 @@ local çalışır, internete veri göndermez
 # nasıl çalıştırılır
 python yüklü olmalı
 pyperclip kütüphanesini kur
-terminalde çalışır, açık kaldığı sürece ne kopyalarsan txt'ye yazar
+terminalde çalışır, açık kaldığı sürece ne kopyalarsan txtye yazar
 çıkmak için ctrl + c
 
 # kayıtlar
